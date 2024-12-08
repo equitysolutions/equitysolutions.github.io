@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Equity Solutions, LLC</title>
+    <link>https://equitysolutions.ai/series/</link>
+    <description>Recent content in Series on Equity Solutions, LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>info@equitysolutions.ai (EquitySolutions, LLC)</managingEditor>
+    <webMaster>info@equitysolutions.ai (EquitySolutions, LLC)</webMaster>
+    <copyright>© 2024 EquitySolutions, LLC</copyright>
+    <atom:link href="https://equitysolutions.ai/series/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

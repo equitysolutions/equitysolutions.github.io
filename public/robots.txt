@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://equitysolutions.ai/sitemap.xml
