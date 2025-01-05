@@ -1,8 +1,19 @@
+site_url: https://equitysolutions.ai
+display_url: https://equitysolutions.ai
+
+#backend:
+#  name: github
+#  repo: equitysolutions/equitysolutions.github.io # Path to your GitHub repository
+# optional, defaults to master
+#  branch: main
+#  site_domain: 3abbaef4-2cdc-4016-9e8c-232c09c53262
+#  base_url: https://equitysolutions.ai
+
 backend:
-  name: github
-  repo: equitysolutions/equitysolutions.github.io # Path to your GitHub repository
-  # optional, defaults to master
+  name: git-gateway
   branch: main
+  site_domain: 3abbaef4-2cdc-4016-9e8c-232c09c53262
+#  base_url: https://equitysolutions.ai
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
