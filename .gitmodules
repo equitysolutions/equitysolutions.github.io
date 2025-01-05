@@ -1,0 +1,15 @@
+[submodule "themes/bulma"]
+	path = themes/bulma
+	url = https://github.com/jgthms/bulma.git
+[submodule "themes/github.com/StefMa/hugo-fresh"]
+	path = themes/github.com/StefMa/hugo-fresh
+	url = https://github.com/StefMa/hugo-fresh.git
+[submodule "bulma"]
+	path = bulma
+	url = https://github.com/jgthms/bulma
+[submodule "themes/github.com/jgthms/bulma"]
+	path = themes/github.com/jgthms/bulma
+	url = https://github.com/jgthms/bulma
+[submodule "themes/up-business-theme"]
+	path = themes/up-business-theme
+	url = https://gitlab.com/writeonlyhugo/up-business-theme.git
